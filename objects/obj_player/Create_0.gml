@@ -5,3 +5,4 @@ image_speed = 0;
 
 // states
 has_key_copper = false; 
+has_lantern = false;
