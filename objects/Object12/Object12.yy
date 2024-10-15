@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_fogOfWar",
+  "%Name":"Object12",
   "eventList":[],
   "managed":true,
-  "name":"obj_fogOfWar",
+  "name":"Object12",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_fogOfWar",
-    "path":"sprites/spr_fogOfWar/spr_fogOfWar.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

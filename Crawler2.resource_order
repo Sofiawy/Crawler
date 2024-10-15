@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_door","order":8,"path":"objects/obj_door/obj_door.yy",},
     {"name":"obj_exit1","order":4,"path":"objects/obj_exit1/obj_exit1.yy",},
+    {"name":"obj_fogOfWar","order":11,"path":"objects/obj_fogOfWar/obj_fogOfWar.yy",},
     {"name":"obj_ghost","order":6,"path":"objects/obj_ghost/obj_ghost.yy",},
     {"name":"obj_key","order":7,"path":"objects/obj_key/obj_key.yy",},
     {"name":"obj_lantern","order":10,"path":"objects/obj_lantern/obj_lantern.yy",},
@@ -26,7 +27,7 @@
     {"name":"obj_setUp","order":9,"path":"objects/obj_setUp/obj_setUp.yy",},
     {"name":"obj_wall1","order":1,"path":"objects/obj_wall1/obj_wall1.yy",},
     {"name":"obj_wall2","order":3,"path":"objects/obj_wall2/obj_wall2.yy",},
-    {"name":"obj_fogOfWar","order":11,"path":"objects/obj_fogOfWar/obj_fogOfWar.yy",},
+    {"name":"Object12","order":12,"path":"objects/Object12/Object12.yy",},
     {"name":"rm_level1","order":1,"path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"rm_level2","order":2,"path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"spr_ball","order":9,"path":"sprites/spr_ball/spr_ball.yy",},
@@ -46,6 +47,7 @@
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_tileSet1","order":10,"path":"sprites/spr_tileSet1/spr_tileSet1.yy",},
     {"name":"spr_wall1","order":1,"path":"sprites/spr_wall1/spr_wall1.yy",},
+    {"name":"Sprite20","order":20,"path":"sprites/Sprite20/Sprite20.yy",},
     {"name":"wall2","order":7,"path":"sprites/wall2/wall2.yy",},
   ],
 }
