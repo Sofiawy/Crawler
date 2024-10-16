@@ -2,6 +2,5 @@
 // You can write your code in this editor
 
 
-obj_fogOfWar.grow = true;
-
-instance_destroy(); 
+if (lives < 0)
+visible = false;

@@ -1,7 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
-obj_fogOfWar.grow = true;
-
-instance_destroy(); 
+grow = false;
+grow_speed = 0.04;
+max_ratio = 3.0;

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object12",
+  "%Name":"obj_live2",
   "eventList":[],
   "managed":true,
-  "name":"Object12",
+  "name":"obj_live2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_lives",
+    "path":"sprites/spr_lives/spr_lives.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

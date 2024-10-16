@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_fogOfWar",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_live3",
+  "eventList":[],
   "managed":true,
-  "name":"obj_fogOfWar",
+  "name":"obj_live3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_fogOfWar",
-    "path":"sprites/spr_fogOfWar/spr_fogOfWar.yy",
+    "name":"spr_lives",
+    "path":"sprites/spr_lives/spr_lives.yy",
   },
   "spriteMaskId":null,
   "visible":true,
