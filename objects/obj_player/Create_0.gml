@@ -7,3 +7,8 @@ image_speed = 0;
 has_key_copper = false; 
 grow_set = false;
 
+
+// start position
+start_x = x;
+start_y = y;
+
