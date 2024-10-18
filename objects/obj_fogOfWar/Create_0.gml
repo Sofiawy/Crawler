@@ -3,4 +3,4 @@
 
 grow = false;
 grow_speed = 0.04;
-max_ratio = 3.0;
+max_ratio = 3.2;

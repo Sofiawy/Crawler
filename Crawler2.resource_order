@@ -32,6 +32,7 @@
     {"name":"obj_wall2","order":3,"path":"objects/obj_wall2/obj_wall2.yy",},
     {"name":"rm_level1","order":1,"path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"rm_level2","order":2,"path":"rooms/rm_level2/rm_level2.yy",},
+    {"name":"rm_lose","order":3,"path":"rooms/rm_lose/rm_lose.yy",},
     {"name":"spr_background","order":21,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_ball","order":9,"path":"sprites/spr_ball/spr_ball.yy",},
     {"name":"spr_door_open","order":12,"path":"sprites/spr_door_open/spr_door_open.yy",},

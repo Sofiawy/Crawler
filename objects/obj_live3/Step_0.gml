@@ -3,3 +3,7 @@
 
 
 
+if (lives < 3)
+{
+	obj_live3.visible = false;
+}

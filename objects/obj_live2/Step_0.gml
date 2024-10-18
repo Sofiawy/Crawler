@@ -4,4 +4,7 @@
 
 
 
-
+if (lives < 2)
+{
+	obj_live2.visible = false;
+}

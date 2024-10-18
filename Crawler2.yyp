@@ -52,6 +52,7 @@
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
+    {"id":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},},
     {"id":{"name":"spr_door_open","path":"sprites/spr_door_open/spr_door_open.yy",},},
@@ -81,6 +82,7 @@
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
+    {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
