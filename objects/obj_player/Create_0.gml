@@ -6,6 +6,7 @@ image_speed = 0;
 // states
 has_key_copper = false; 
 grow_set = false;
+has_pick = false;
 
 
 // start position

@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall2",
-  "eventList":[],
+  "%Name":"obj_tombstone",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_wall2",
+  "name":"obj_tombstone",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +29,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_wall2",
-    "path":"sprites/spr_wall2/spr_wall2.yy",
+    "name":"spr_tombstone",
+    "path":"sprites/spr_tombstone/spr_tombstone.yy",
   },
   "spriteMaskId":null,
   "visible":true,
