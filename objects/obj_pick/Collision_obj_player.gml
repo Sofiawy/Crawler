@@ -3,4 +3,5 @@
 
 
 obj_player.has_pick = true;
+obj_tombstone.solid = false;
 instance_destroy();
