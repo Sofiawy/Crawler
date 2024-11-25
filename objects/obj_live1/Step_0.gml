@@ -1,7 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+
 if (lives < 1)
 {
-	obj_live1.visible = false;
+	instance_destroy();
+	instance_create_layer(x, y, "player", obj_lives_breaking);
+	
 }

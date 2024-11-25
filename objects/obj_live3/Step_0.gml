@@ -6,6 +6,6 @@
 if (lives < 3)
 {
 	instance_destroy();
-	instance_create_layer(x, y, "player", obj_lives_breaking3);
+	instance_create_layer(x, y, "player", obj_lives_breaking);
 	
 }
