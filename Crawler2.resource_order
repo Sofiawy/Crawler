@@ -34,6 +34,7 @@
     {"name":"obj_tombstone","order":18,"path":"objects/obj_tombstone/obj_tombstone.yy",},
     {"name":"obj_wall1","order":1,"path":"objects/obj_wall1/obj_wall1.yy",},
     {"name":"obj_wall2","order":3,"path":"objects/obj_wall2/obj_wall2.yy",},
+    {"name":"obj_lantern_item","order":20,"path":"objects/obj_lantern_item/obj_lantern_item.yy",},
     {"name":"rm_level1","order":1,"path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"rm_level2","order":2,"path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"rm_lose","order":3,"path":"rooms/rm_lose/rm_lose.yy",},
