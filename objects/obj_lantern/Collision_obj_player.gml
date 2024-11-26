@@ -3,5 +3,6 @@
 
 
 obj_fogOfWar.grow = true;
+obj_lantern_item.visible = true;
 
 instance_destroy(); 

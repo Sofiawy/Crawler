@@ -32,5 +32,5 @@
     "path":"sprites/spr_lantern/spr_lantern.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

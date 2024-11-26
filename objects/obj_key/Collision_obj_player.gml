@@ -5,4 +5,5 @@
 //instance_destroy(obj_door);
 
 obj_player.has_key_copper = true;
-instance_destroy(obj_key);
+obj_key_item.visible = true;
+instance_destroy();

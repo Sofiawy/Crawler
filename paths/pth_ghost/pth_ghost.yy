@@ -1,9 +1,9 @@
 {
   "$GMPath":"",
-  "%Name":"pth_ball",
+  "%Name":"pth_ghost",
   "closed":false,
   "kind":0,
-  "name":"pth_ball",
+  "name":"pth_ghost",
   "parent":{
     "name":"Paths",
     "path":"folders/Paths.yy",
