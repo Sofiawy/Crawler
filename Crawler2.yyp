@@ -88,9 +88,13 @@
     {"id":{"name":"spr_wall2","path":"sprites/spr_wall2/spr_wall2.yy",},},
     {"id":{"name":"spr_zombieL","path":"sprites/spr_zombieL/spr_zombieL.yy",},},
     {"id":{"name":"spr_zombieR","path":"sprites/spr_zombieR/spr_zombieR.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"spr_spiderL","path":"sprites/spr_spiderL/spr_spiderL.yy",},},
     {"id":{"name":"spr_spiderR","path":"sprites/spr_spiderR/spr_spiderR.yy",},},
     {"id":{"name":"spr_spiderD","path":"sprites/spr_spiderD/spr_spiderD.yy",},},
+=======
+    {"id":{"name":"Sprite26","path":"sprites/Sprite26/Sprite26.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"ts_tileSet1","path":"tilesets/ts_tileSet1/ts_tileSet1.yy",},},
   ],
   "resourceType":"GMProject",
