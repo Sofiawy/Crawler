@@ -3,5 +3,5 @@
 
 
 obj_player.has_key_old = true;
-obj_key_item.visible = true;
+obj_rust_item.visible = true;
 instance_destroy();
