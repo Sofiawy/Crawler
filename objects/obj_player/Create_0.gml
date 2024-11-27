@@ -4,7 +4,8 @@ my_speed = 8;
 image_speed = 0;
 
 // states
-has_key_copper = false; 
+has_key_skell = false; 
+has_key_old = false;
 grow_set = false;
 has_pick = false;
 
