@@ -36,6 +36,7 @@
     {"name":"obj_pick_item","order":19,"path":"objects/obj_pick_item/obj_pick_item.yy",},
     {"name":"obj_pick","order":15,"path":"objects/obj_pick/obj_pick.yy",},
     {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_rust_item","order":27,"path":"objects/obj_rust_item/obj_rust_item.yy",},
     {"name":"obj_rustyKey","order":26,"path":"objects/obj_rustyKey/obj_rustyKey.yy",},
     {"name":"obj_setUp","order":8,"path":"objects/obj_setUp/obj_setUp.yy",},
     {"name":"obj_spider","order":22,"path":"objects/obj_spider/obj_spider.yy",},
@@ -43,7 +44,6 @@
     {"name":"obj_wall1","order":1,"path":"objects/obj_wall1/obj_wall1.yy",},
     {"name":"obj_wall2","order":3,"path":"objects/obj_wall2/obj_wall2.yy",},
     {"name":"obj_zombie","order":21,"path":"objects/obj_zombie/obj_zombie.yy",},
-    {"name":"obj_rust_item","order":27,"path":"objects/obj_rust_item/obj_rust_item.yy",},
     {"name":"pth_spider","order":2,"path":"paths/pth_spider/pth_spider.yy",},
     {"name":"pth_zombie","order":1,"path":"paths/pth_zombie/pth_zombie.yy",},
     {"name":"rm_level1","order":1,"path":"rooms/rm_level1/rm_level1.yy",},
@@ -81,5 +81,6 @@
     {"name":"spr_wall2","order":7,"path":"sprites/spr_wall2/spr_wall2.yy",},
     {"name":"spr_zombieL","order":28,"path":"sprites/spr_zombieL/spr_zombieL.yy",},
     {"name":"spr_zombieR","order":27,"path":"sprites/spr_zombieR/spr_zombieR.yy",},
+    {"name":"spr_extra_life","order":37,"path":"sprites/spr_extra_life/spr_extra_life.yy",},
   ],
 }
