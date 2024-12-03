@@ -59,6 +59,7 @@
     {"name":"spr_explorerL","order":26,"path":"sprites/spr_explorerL/spr_explorerL.yy",},
     {"name":"spr_explorerR","order":4,"path":"sprites/spr_explorerR/spr_explorerR.yy",},
     {"name":"spr_explorerU","order":5,"path":"sprites/spr_explorerU/spr_explorerU.yy",},
+    {"name":"spr_extra_life","order":37,"path":"sprites/spr_extra_life/spr_extra_life.yy",},
     {"name":"spr_fog1","order":14,"path":"sprites/spr_fog1/spr_fog1.yy",},
     {"name":"spr_fogOfWar","order":18,"path":"sprites/spr_fogOfWar/spr_fogOfWar.yy",},
     {"name":"spr_ghost","order":16,"path":"sprites/spr_ghost/spr_ghost.yy",},
@@ -81,6 +82,6 @@
     {"name":"spr_wall2","order":7,"path":"sprites/spr_wall2/spr_wall2.yy",},
     {"name":"spr_zombieL","order":28,"path":"sprites/spr_zombieL/spr_zombieL.yy",},
     {"name":"spr_zombieR","order":27,"path":"sprites/spr_zombieR/spr_zombieR.yy",},
-    {"name":"spr_extra_life","order":37,"path":"sprites/spr_extra_life/spr_extra_life.yy",},
+    {"name":"spr_tnt","order":38,"path":"sprites/spr_tnt/spr_tnt.yy",},
   ],
 }
