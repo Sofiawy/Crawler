@@ -8,6 +8,7 @@ has_key_skell = false;
 has_key_old = false;
 grow_set = false;
 has_pick = false;
+has_tnt = false;
 
 
 // start position
