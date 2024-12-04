@@ -5,7 +5,7 @@
 
 if (lives < 3)
 {
-	instance_destroy();
+	visible = false;
 	instance_create_layer(x, y, "player", obj_lives_breaking);
 	
 }
