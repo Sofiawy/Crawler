@@ -15,3 +15,5 @@ has_tnt = false;
 start_x = x;
 start_y = y;
 
+
+

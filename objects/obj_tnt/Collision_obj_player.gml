@@ -5,4 +5,5 @@
 obj_player.has_tnt = true;
 obj_tnt_item.visible = true;
 
+
 instance_destroy(); 
