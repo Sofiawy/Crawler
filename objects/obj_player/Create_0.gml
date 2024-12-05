@@ -9,7 +9,12 @@ has_key_old = false;
 grow_set = false;
 has_pick = false;
 has_tnt = false;
-
+has_extra = false;
+life_2x = obj_live2.x;
+life_2y = obj_live2.y;
+life_3x = obj_live3.x;
+life_3y = obj_live3.y;
+open_old_door = false;
 
 // start position
 start_x = x;

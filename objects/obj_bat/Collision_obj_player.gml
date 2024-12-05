@@ -2,4 +2,7 @@
 // You can write your code in this editor
 
 
-image_index = obj_live1.image_index;
+lives -= 1;
+
+obj_player.x = obj_player.start_x;
+obj_player.y = obj_player.start_y;

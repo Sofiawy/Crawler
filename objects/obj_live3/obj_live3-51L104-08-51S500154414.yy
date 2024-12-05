@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_extraLife1",
+  "%Name":"obj_live3",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_extraLife1",
+  "name":"obj_live3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_extra_life",
-    "path":"sprites/spr_extra_life/spr_extra_life.yy",
+    "name":"spr_lives",
+    "path":"sprites/spr_lives/spr_lives.yy",
   },
   "spriteMaskId":null,
   "visible":true,
