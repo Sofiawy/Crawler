@@ -1,12 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (path_position == 0)
+
+if (has_tnt)
 {
-	sprite_index = spr_batR;
+	instance_create_layer(x, y, "objects", obj_tnt_explosion);
 }
-
-
-
-
-
