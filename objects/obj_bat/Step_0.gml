@@ -6,6 +6,12 @@ if (path_position == 0)
 	sprite_index = spr_batR;
 }
 
+if (obj_player.open_old_door)
+{
+	path_assign(, pth_bat2);
+}
+
+
 
 
 

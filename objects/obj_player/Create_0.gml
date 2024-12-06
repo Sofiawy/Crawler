@@ -15,6 +15,7 @@ life_2y = obj_live2.y;
 life_3x = obj_live3.x;
 life_3y = obj_live3.y;
 open_old_door = false;
+hit_boulder = false;
 
 // start position
 start_x = x;

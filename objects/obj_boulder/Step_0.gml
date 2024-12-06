@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-obj_player.has_tnt = true;
-instance_destroy();
+
+if (obj_player.hit_boulder)
+{
+	instance_destroy();
+}

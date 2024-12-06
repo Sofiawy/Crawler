@@ -23,6 +23,7 @@
     {"name":"obj_door_open","order":14,"path":"objects/obj_door_open/obj_door_open.yy",},
     {"name":"obj_door","order":7,"path":"objects/obj_door/obj_door.yy",},
     {"name":"obj_exit1","order":4,"path":"objects/obj_exit1/obj_exit1.yy",},
+    {"name":"obj_explosion","order":35,"path":"objects/obj_explosion/obj_explosion.yy",},
     {"name":"obj_extraLife1","order":28,"path":"objects/obj_extraLife1/obj_extraLife1.yy",},
     {"name":"obj_fogOfWar","order":10,"path":"objects/obj_fogOfWar/obj_fogOfWar.yy",},
     {"name":"obj_ghost","order":5,"path":"objects/obj_ghost/obj_ghost.yy",},
@@ -51,7 +52,6 @@
     {"name":"obj_wall1","order":1,"path":"objects/obj_wall1/obj_wall1.yy",},
     {"name":"obj_wall2","order":3,"path":"objects/obj_wall2/obj_wall2.yy",},
     {"name":"obj_zombie","order":21,"path":"objects/obj_zombie/obj_zombie.yy",},
-    {"name":"obj_explosion","order":35,"path":"objects/obj_explosion/obj_explosion.yy",},
     {"name":"pth_bat1","order":3,"path":"paths/pth_bat1/pth_bat1.yy",},
     {"name":"pth_bat2","order":4,"path":"paths/pth_bat2/pth_bat2.yy",},
     {"name":"pth_spider","order":2,"path":"paths/pth_spider/pth_spider.yy",},
@@ -98,5 +98,6 @@
     {"name":"spr_wall2","order":7,"path":"sprites/spr_wall2/spr_wall2.yy",},
     {"name":"spr_zombieL","order":28,"path":"sprites/spr_zombieL/spr_zombieL.yy",},
     {"name":"spr_zombieR","order":27,"path":"sprites/spr_zombieR/spr_zombieR.yy",},
+    {"name":"spr_items_background","order":45,"path":"sprites/spr_items_background/spr_items_background.yy",},
   ],
 }
