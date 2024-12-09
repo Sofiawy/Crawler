@@ -10,11 +10,23 @@ grow_set = false;
 has_pick = false;
 has_tnt = false;
 has_extra = false;
-life_2x = obj_live2.x;
-life_2y = obj_live2.y;
-life_3x = obj_live3.x;
-life_3y = obj_live3.y;
+if (lives < 3)
+{
+	life_2x = obj_live2.x;
+	life_2y = obj_live2.y;
+}
+if (lives < 4)
+{
+	life_3x = obj_live3.x;
+	life_3y = obj_live3.y;
+}
+pick = false;
+tnt = false;
+key_skell = false; 
+key_old = false;
 open_old_door = false;
+broke_grave = false;
+broke_boulder = false;
 hit_boulder = false;
 
 // start position

@@ -4,5 +4,7 @@
 
 if (obj_player.hit_boulder)
 {
+	instance_create_layer(x, y, "objects", obj_poof);
+	obj_player.broke_boulder = true;
 	instance_destroy();
 }

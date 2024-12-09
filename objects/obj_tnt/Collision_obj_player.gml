@@ -3,6 +3,7 @@
 
 
 obj_player.has_tnt = true;
+obj_player.tnt = true;
 obj_tnt_item.visible = true;
 
 
