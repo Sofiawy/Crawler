@@ -10,6 +10,7 @@ grow_set = false;
 has_pick = false;
 has_tnt = false;
 has_extra = false;
+has_granade = false;
 life_2x = obj_live2.x;
 life_2y = obj_live2.y;
 life_3x = obj_live3.x;
@@ -22,6 +23,7 @@ open_old_door = false;
 broke_grave = false;
 broke_boulder = false;
 hit_boulder = false;
+
 
 // start position
 start_x = x;

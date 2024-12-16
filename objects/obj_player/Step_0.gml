@@ -11,4 +11,7 @@ if (global.room == 2)
 {
 	start_x = 1824;
 	start_y = 864;
+	has_key_skell = false; 
+	has_key_old = false;
+	has_tnt = false;
 }

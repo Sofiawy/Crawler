@@ -3,6 +3,7 @@
   "%Name":"obj_fence",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_fence",
@@ -34,5 +35,5 @@
     "path":"sprites/spr_fence/spr_fence.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
