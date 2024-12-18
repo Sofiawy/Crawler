@@ -1,0 +1,23 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_spider",
+  "closed":false,
+  "kind":0,
+  "name":"pth_spider",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":608.0,"y":224.0,},
+    {"speed":100.0,"x":608.0,"y":480.0,},
+    {"speed":100.0,"x":672.0,"y":480.0,},
+    {"speed":100.0,"x":672.0,"y":608.0,},
+    {"speed":100.0,"x":992.0,"y":608.0,},
+    {"speed":100.0,"x":992.0,"y":736.0,},
+    {"speed":100.0,"x":864.0,"y":736.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

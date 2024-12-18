@@ -11,6 +11,11 @@ if (obj_player.open_old_door && path_position == 0)
 	path_assign(0, pth_bat2);
 }
 
+if (global.room == 2)
+{
+	instance_destroy();
+}
+
 
 
 
