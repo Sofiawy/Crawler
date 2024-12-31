@@ -10,7 +10,7 @@ if (has_tnt)
 
 if (has_granade)
 {
-	has_tnt = false;
+	has_granade = false;
 	instance_create_layer(x, y, "objects", obj_granade_explode);
 }
 	

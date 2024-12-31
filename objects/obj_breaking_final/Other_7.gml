@@ -2,5 +2,4 @@
 // You can write your code in this editor
 
 
-instance_destroy();
-room_goto(rm_transform);
+room_goto(rm_lose);
