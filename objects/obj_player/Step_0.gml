@@ -15,3 +15,4 @@ if (global.room == 2)
 	has_key_old = false;
 	has_tnt = false;
 }
+

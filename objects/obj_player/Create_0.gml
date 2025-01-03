@@ -29,8 +29,6 @@ open_old_door = false;
 has_granade = false;
 
 
-// etxtra stats
-has_skip = false;
 
 // start position
 start_x = x;

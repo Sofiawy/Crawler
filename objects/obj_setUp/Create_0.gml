@@ -5,6 +5,6 @@
 lives = 3;
 
 global.room = 1;
-
+global.has_skip = false;
 
 window_set_fullscreen(true);
