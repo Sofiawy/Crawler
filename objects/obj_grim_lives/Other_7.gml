@@ -3,4 +3,5 @@
 
 instance_destroy();
 instance_create_layer(obj_grim.x, obj_grim.y, "objects", obj_key_final);
+obj_player.grim_dead = true;
 instance_destroy(obj_grim);

@@ -2,8 +2,8 @@
 // You can write your code in this editor
 
 
-obj_player.has_key_old = true;
-obj_player.key_old = true;
-obj_door3.solid = false;
+obj_player.has_gold_key = true;
+obj_player.gold_key = true;
 obj_gold_item.visible = true;
+obj_wood_door.solid = false;
 instance_destroy();

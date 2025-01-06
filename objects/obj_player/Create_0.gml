@@ -13,10 +13,14 @@ tnt = false;
 broke_grave = false;
 broke_boulder = false;
 hit_boulder = false;
-
-// stats both
 has_key_skell = false; 
 has_key_old = false;
+key_skell = false; 
+key_old = false;
+open_old_door = false;
+
+// stats both
+
 if (lives <= 2)
 {
 	life_2x = obj_live2.x;
@@ -27,11 +31,11 @@ if (lives <= 3)
 	life_3x = obj_live3.x;
 	life_3y = obj_live3.y;
 }
-key_skell = false; 
-key_old = false;
-open_old_door = false;
+
 
 // stats rm2
+has_gold_key = false;
+has_red_key = false;
 has_bomb = false;
 can_die = false;
 has_black_key = false;
@@ -45,8 +49,17 @@ has_lavender = false;
 has_potion = false;
 ginger = false;
 lavender = false;
+gold_key = false;
+red_key = false;
 potion = false;
-
+wood_door = false;
+open_gate = false;
+stone_door = false;
+black_door = false;
+wizard = false;
+bomb = false;
+grim_dead = false;
+       
 
 
 // start position
