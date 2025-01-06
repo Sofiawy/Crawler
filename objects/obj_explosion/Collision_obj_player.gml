@@ -3,4 +3,6 @@
 
 
 lives -= 1;
+obj_player.x = obj_player.start_x;
+obj_player.y = obj_player.start_y;
 

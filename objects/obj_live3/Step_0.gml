@@ -3,9 +3,14 @@
 
 
 
-if (lives < 3)
+if (lives < 3 && global.room == 1)
 {
 	instance_destroy();
 	instance_create_layer(x, y, "player", obj_lives_breaking);
 	
 }
+
+else if (lives < 3 && global.room == 2)
+	{
+		instance_destroy();
+	}

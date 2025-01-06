@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bomb",
-    "path":"sprites/spr_bomb/spr_bomb.yy",
+    "name":"spr_granade",
+    "path":"sprites/spr_granade/spr_granade.yy",
   },
   "spriteMaskId":null,
   "visible":true,

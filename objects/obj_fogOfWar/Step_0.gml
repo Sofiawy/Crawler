@@ -5,7 +5,7 @@
 x = obj_player.x;
 y = obj_player.y;
 
-if (grow)
+if (global.grow)
 {
 	image_xscale += grow_speed;
 	image_yscale = image_xscale;

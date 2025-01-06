@@ -15,6 +15,6 @@ if (lives == 2)
 if (lives == 4)
 {
 	obj_player.has_extra = true;
-	obj_live4.visible = true;
+	global.extra = true;
 }
 instance_destroy();

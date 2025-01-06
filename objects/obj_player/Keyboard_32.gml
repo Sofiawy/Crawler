@@ -8,9 +8,9 @@ if (has_tnt)
 	instance_create_layer(x, y, "objects", obj_tnt_explosion);
 }
 
-if (has_granade)
+if (has_bomb)
 {
-	has_granade = false;
-	instance_create_layer(x, y, "objects", obj_granade_explode);
+	has_bomb = false;
+	instance_create_layer(x + 96, y - 32, "objects", obj_bomb_move);
 }
 	
