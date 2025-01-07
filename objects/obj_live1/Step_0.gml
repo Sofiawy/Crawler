@@ -4,6 +4,7 @@
 
 if (lives < 1)
 {
+	audio_play_sound(snd_ow, 1, false);
 	instance_destroy();
 	instance_create_layer(x, y, "player", obj_breaking_final);
 	

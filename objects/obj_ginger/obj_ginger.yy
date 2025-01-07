@@ -34,5 +34,5 @@
     "path":"sprites/spr_ginger/spr_ginger.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_ghost.mp3",
   "type":0,
-  "volume":0.77,
+  "volume":0.85,
 }

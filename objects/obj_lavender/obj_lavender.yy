@@ -34,5 +34,5 @@
     "path":"sprites/spr_lavender/spr_lavender.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

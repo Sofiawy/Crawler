@@ -34,5 +34,5 @@
     "path":"sprites/spr_moon_light/spr_moon_light.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
