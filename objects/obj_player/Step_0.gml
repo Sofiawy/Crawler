@@ -13,3 +13,8 @@ if (global.room == 2)
 	start_y = 864;
 }
 
+if (can_play)
+{
+	can_play = false;
+	audio_play_sound(snd_walking, 1, true);
+}

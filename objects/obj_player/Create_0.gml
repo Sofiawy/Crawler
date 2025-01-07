@@ -3,6 +3,8 @@
 my_speed = 8;
 image_speed = 0;
 
+can_play = false;
+
 // stats rm1
 grow_set = false;
 has_pick = false;
