@@ -3,7 +3,7 @@
 
 
 
-if (lives < 3 && global.room == 1)
+if (lives < 3)
 {
 	audio_play_sound(snd_ow, 1, false);
 	instance_destroy();
@@ -11,7 +11,3 @@ if (lives < 3 && global.room == 1)
 	
 }
 
-else if (lives < 3 && global.room == 2)
-	{
-		instance_destroy();
-	}

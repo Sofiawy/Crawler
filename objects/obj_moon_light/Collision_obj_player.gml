@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (visible && obj_lavender.visible && obj_ging.visible)
+if (visible && obj_player.has_lavender && obj_player.has_ginger)
 {
 	obj_player.has_potion = true;
 	obj_player.potion = true;

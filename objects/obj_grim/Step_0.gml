@@ -3,10 +3,10 @@
 
 if (sprite_index == spr_grimL)
 {
-	alarm_set(0, random_range(1, 50));
+	alarm_set(0, random_range(30, 90));
 }
 
 if (sprite_index == spr_grimR)
 {
-	alarm_set(1, random_range(1, 50));	
+	alarm_set(1, random_range(30, 90));;	
 }
