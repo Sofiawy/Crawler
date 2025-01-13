@@ -62,7 +62,28 @@ wizard = false;
 bomb = false;
 grim_dead = false;
        
-
+	   
+// stats rm 3
+has_red_M = false;
+red_M = false;
+has_honey = false;
+honey = false;
+has_blue_M = false;
+blue_M = false;
+has_flower = false;
+flower = false;
+has_shrub = false;
+shrub = false;
+has_wing = false;
+wing = false;
+has_leaf = false;
+leaf = false;
+has_amber = false;
+amber = false;
+has_feather = false;
+feather = false;
+drank_potion = false;
+made_potion = false;
 
 // start position
 start_x = x;

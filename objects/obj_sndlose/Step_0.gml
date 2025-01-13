@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-alarm_set(0, irandom_range(30, 90)));
+alarm_set(0, irandom_range(200, 300));
