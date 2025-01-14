@@ -8,5 +8,6 @@ if (visible && obj_player.has_red_M && obj_player.has_honey && obj_player.has_fl
 	obj_player.wing = true;
 	obj_wingsItem.visible = true;
 	obj_cauldron.solid = false;
+	obj_player.hit_cauldron = false;
 	instance_destroy();
 }

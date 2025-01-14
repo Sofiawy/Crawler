@@ -16,7 +16,8 @@ if (has_bomb)
 	
 if (made_potion)
 {
-	audio_play_sound(snd_rm1, 1, true);
+	audio_play_sound(snd_sip, 1, false);
 	drank_potion = true;
 	obj_potion_item.sprite_index = spr_final_potion_drank;
+	obj_final_gate.solid = false;
 }

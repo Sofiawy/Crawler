@@ -84,6 +84,7 @@ has_feather = false;
 feather = false;
 drank_potion = false;
 made_potion = false;
+hit_cauldron = false;
 
 // start position
 start_x = x;
