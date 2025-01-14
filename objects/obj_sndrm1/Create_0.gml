@@ -4,5 +4,5 @@
 
 if (!global.mute)
 {
-	audio_play_sound(snd_rm1, 1, true);
+	audio_play_sound(snd_rm1, 1, false);
 }

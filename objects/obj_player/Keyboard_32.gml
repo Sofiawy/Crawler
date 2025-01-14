@@ -14,3 +14,9 @@ if (has_bomb)
 	instance_create_layer(x + 96, y - 32, "objects", obj_bomb_move);
 }
 	
+if (made_potion)
+{
+	audio_play_sound(snd_rm1, 1, true);
+	drank_potion = true;
+	obj_potion_item.sprite_index = spr_final_potion_drank;
+}

@@ -28,7 +28,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_cauldron",
     "path":"sprites/spr_cauldron/spr_cauldron.yy",

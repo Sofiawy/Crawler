@@ -53,7 +53,6 @@ if (obj_player.has_blue_M && !obj_player.has_amber)
 
 if (obj_player.has_amber)
 {	
-	obj_player.made_potion = true;
-	
+	instance_create_layer(x, y, "objects", obj_final_potion);
 	instance_destroy();
 }

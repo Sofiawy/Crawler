@@ -18,3 +18,5 @@ if (can_play && !global.mute)
 	can_play = false;
 	audio_play_sound(snd_walking, 1, true);
 }
+
+

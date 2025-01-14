@@ -7,3 +7,6 @@ if (global.instructions == 1)
 	
 if (global.instructions == 2)
 	room_goto(rm_instructions3)
+
+
+audio_stop_all();
