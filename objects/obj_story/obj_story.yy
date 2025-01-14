@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_rm1",
+  "%Name":"obj_story",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":77,"eventType":10,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_rm1",
+  "name":"obj_story",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_rm1",
-    "path":"sprites/spr_rm1/spr_rm1.yy",
+    "name":"spr_story",
+    "path":"sprites/spr_story/spr_story.yy",
   },
   "spriteMaskId":null,
   "visible":true,
