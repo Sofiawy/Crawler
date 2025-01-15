@@ -23,12 +23,12 @@ open_old_door = false;
 
 // stats both
 
-if (lives <= 2)
+if (lives >= 2)
 {
 	life_2x = obj_live2.x;
 	life_2y = obj_live2.y;
 }
-if (lives <= 3)
+if (lives >= 3)
 {
 	life_3x = obj_live3.x;
 	life_3y = obj_live3.y;
