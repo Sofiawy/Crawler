@@ -2,4 +2,7 @@
 // You can write your code in this editor
 
 if (!global.mute)
+{
 	audio_play_sound(snd_howl, 1, false);
+	can_play = true;
+}

@@ -1,9 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-can_play = true;
+room_goto(rm_story);
 
-if (!global.mute)
-{
-	audio_play_sound(snd_rm1, 1, false);
-}

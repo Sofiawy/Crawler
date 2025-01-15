@@ -1,12 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (sprite_index == spr_grimL)
+if (sprite_index == spr_grimL && can_change)
 {
-	alarm_set(0, irandom_range(1, 300));
+	can_change = false;
+	alarm_set(0, irandom_range(200, 300));
 }
 
-if (sprite_index == spr_grimR)
+if (sprite_index == spr_grimR && can_change)
 {
-	alarm_set(1, irandom_range(1, 300));
+	can_change = false;
+	alarm_set(1, irandom_range(200, 300));
 }
