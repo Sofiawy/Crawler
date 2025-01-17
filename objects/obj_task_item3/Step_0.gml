@@ -93,5 +93,6 @@ if (obj_player.red_M && obj_player.hit_cauldron && obj_player.amber && obj_playe
 
 if (obj_player.red_M && obj_player.drank_potion && obj_player.hit_cauldron && obj_player.amber && obj_player.blue_M && obj_player.shrub && obj_player.feather && obj_player.honey && obj_player.flower && obj_player.wing && obj_player.leaf)
 {
-	sprite_index = spr_final_gate;
+	image_speed = 0;
+	sprite_index = spr_f_gate;
 }

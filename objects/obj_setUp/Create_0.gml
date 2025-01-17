@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 // lives
-lives = 3;
+lives = 2;
 
 global.room = 1;
 global.has_skip = false;

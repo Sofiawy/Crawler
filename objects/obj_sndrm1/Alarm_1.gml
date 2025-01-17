@@ -4,6 +4,6 @@
 if (!global.mute)
 {
 	audio_play_sound(snd_ghost, 1, false);
-	can_play = true;
+	alarm_set(1, 900);
 }
 

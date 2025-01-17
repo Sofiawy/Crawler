@@ -5,7 +5,7 @@
 if (!global.mute)
 {
 	audio_play_sound(snd_zombie, 1, false);
-	can_play = true;
+	alarm_set(0, 700);
 }
 
 
