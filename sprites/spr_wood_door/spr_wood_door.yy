@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_wood_door",
   "bboxMode":0,
   "bbox_bottom":63,
@@ -12,10 +12,10 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1f88c745-ff6f-40ba-af46-408ee1105b06","name":"1f88c745-ff6f-40ba-af46-408ee1105b06","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a9ca7915-2f6c-439b-8125-55525dbe876f","name":"a9ca7915-2f6c-439b-8125-55525dbe876f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d8340f11-2a2b-4e99-a072-ffab858f3060","name":"d8340f11-2a2b-4e99-a072-ffab858f3060","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3d8ccd53-1b63-4474-804f-70a71e396ffe","name":"3d8ccd53-1b63-4474-804f-70a71e396ffe","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1f88c745-ff6f-40ba-af46-408ee1105b06","name":"1f88c745-ff6f-40ba-af46-408ee1105b06","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a9ca7915-2f6c-439b-8125-55525dbe876f","name":"a9ca7915-2f6c-439b-8125-55525dbe876f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d8340f11-2a2b-4e99-a072-ffab858f3060","name":"d8340f11-2a2b-4e99-a072-ffab858f3060","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3d8ccd53-1b63-4474-804f-70a71e396ffe","name":"3d8ccd53-1b63-4474-804f-70a71e396ffe","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
